@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<alunos>
+  <aluno>
+    <matricula>001</matricula>
+    <nome>Ed</nome>
+    <datadenascimento>10/10/1990</datadenascimento>
+    <cpf>84189380210</cpf>
+    <ativo>1</ativo>
+   </aluno>
+  
+   <aluno>
+    <matricula>002</matricula>
+    <nome>Leonardo</nome>
+    <datadenascimento>23/04/1994</datadenascimento>
+    <cpf>54816352482</cpf> 
+    <ativo>1</ativo>
+  </aluno>
+
+  <aluno>
+    <matricula>003</matricula>
+    <nome>Saul</nome>
+    <datadenascimento>13/03/1991</datadenascimento>
+    <cpf>84569423651</cpf> 
+    <ativo>1</ativo>
+  </aluno>
+  
+  <aluno>
+    <matricula>004</matricula>
+    <nome>Donato</nome>
+    <datadenascimento>23/12/1987</datadenascimento>
+    <cpf>87451298456</cpf> 
+    <ativo>0</ativo>
+  </aluno>
+
+  <aluno>
+    <matricula>005</matricula>
+    <nome>Luan</nome>
+    <datadenascimento>01/04/1989</datadenascimento>
+    <cpf>63879125486</cpf> 
+    <ativo>1</ativo>
+  </aluno>
+
+  <aluno>
+    <matricula>006</matricula>
+    <nome>João</nome>
+    <datadenascimento>30/11/1995</datadenascimento>
+    <cpf>35846215489</cpf> 
+    <ativo>0</ativo>
+  </aluno>
+
+  <aluno>
+    <matricula>007</matricula>
+    <nome>Alex</nome>
+    <datadenascimento>08/05/1993</datadenascimento>
+    <cpf>58912384231</cpf> 
+    <ativo>1</ativo>
+  </aluno>
+
+  <aluno>
+    <matricula>008</matricula>
+    <nome>Vinicius</nome>
+    <datadenascimento>22/07/1993</datadenascimento>
+    <cpf>11015472788</cpf> 
+    <ativo>1</ativo>
+  </aluno>
+</alunos>

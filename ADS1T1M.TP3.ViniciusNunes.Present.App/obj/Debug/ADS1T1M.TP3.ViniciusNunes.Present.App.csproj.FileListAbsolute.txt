@@ -1,0 +1,43 @@
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe.config
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll.config
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.xml
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.csprojResolveAssemblyReference.cache
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe.config
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.csprojResolveAssemblyReference.cache
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe.config
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.dll
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.xml
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.csprojResolveAssemblyReference.cache

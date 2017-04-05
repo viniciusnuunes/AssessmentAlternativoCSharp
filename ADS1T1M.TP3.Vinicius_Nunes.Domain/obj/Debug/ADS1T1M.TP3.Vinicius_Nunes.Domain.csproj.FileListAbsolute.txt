@@ -1,0 +1,10 @@
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.csprojResolveAssemblyReference.cache
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+c:\users\vinicius.nunes\documents\visual studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb

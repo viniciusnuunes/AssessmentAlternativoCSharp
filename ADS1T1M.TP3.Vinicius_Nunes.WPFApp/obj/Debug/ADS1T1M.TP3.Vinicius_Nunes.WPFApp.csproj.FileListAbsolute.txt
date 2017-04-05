@@ -1,0 +1,14 @@
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe.config
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.pdb
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\App.g.cs
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp_MarkupCompile.cache
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp_MarkupCompile.lref
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\MainWindow.baml
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.g.resources
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.Properties.Resources.resources
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.csproj.GenerateResource.Cache
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.pdb
