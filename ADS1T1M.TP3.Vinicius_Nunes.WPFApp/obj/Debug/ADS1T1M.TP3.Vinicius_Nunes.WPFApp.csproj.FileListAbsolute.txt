@@ -12,3 +12,25 @@ C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinici
 C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.csproj.GenerateResource.Cache
 C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe
 C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe.config
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.csprojResolveAssemblyReference.cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\MainWindow.g.cs
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\App.g.cs
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp_MarkupCompile.cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp_MarkupCompile.lref
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\MainWindow.baml
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.g.resources
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.Properties.Resources.resources
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.csproj.GenerateResource.Cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.exe
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.WPFApp.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\EntityFramework.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\EntityFramework.xml
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.WPFApp\bin\Debug\EntityFramework.SqlServer.xml

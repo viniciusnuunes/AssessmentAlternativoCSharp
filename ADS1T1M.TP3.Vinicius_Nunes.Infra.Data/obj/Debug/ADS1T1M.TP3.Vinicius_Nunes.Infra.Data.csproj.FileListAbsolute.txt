@@ -22,3 +22,15 @@ C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nu
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.csprojResolveAssemblyReference.cache
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll.config
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\EntityFramework.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\EntityFramework.xml
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.csprojResolveAssemblyReference.cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Infra.Data.pdb

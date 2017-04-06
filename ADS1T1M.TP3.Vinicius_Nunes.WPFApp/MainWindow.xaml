@@ -7,6 +7,25 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label x:Name="label1" Content="Matricula" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,13,0,0" FontFamily="Arial" FontWeight="Bold"/>
+        <TextBox x:Name="txtMatriculaBusca" TextChanged="matricula_TextChanged" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" Margin="86,16,0,0"/>
+        <Button x:Name="btnBuscarMatricula" Content="Buscar Matrícula" HorizontalAlignment="Left" VerticalAlignment="Top" Width="98" Margin="400,17,0,0" Click="btnBuscarMatricula_Click" BorderThickness="0,1,1,1" FontFamily="Arial"/>
+        <Rectangle x:Name="retangulo" HorizontalAlignment="Left" Height="227" Stroke="Black" VerticalAlignment="Top" Width="497" Margin="10,57,0,0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="White"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="nome" Content="Nome" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,87,0,0" FontFamily="Arial" FontWeight="Bold"/>
+        <Label x:Name="matricula" Content="Matrícula" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,118,0,0" FontFamily="Arial" FontWeight="Bold"/>
+        <Label x:Name="dataDeNascimento" Content="Data de Nascimento" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,149,0,0" FontFamily="Arial" FontWeight="Bold"/>
+        <Label x:Name="cpf" Content="CPF" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="41,180,0,0" FontFamily="Arial" FontWeight="Bold"/>
+        <TextBlock x:Name="txtNome" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="164,92,0,0" Width="209"/>
+        <TextBlock x:Name="txtMatricula" HorizontalAlignment="Left" Margin="164,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+        <TextBlock x:Name="txtDataDeNascimento" HorizontalAlignment="Left" Margin="164,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+        <TextBlock x:Name="txtCpf" HorizontalAlignment="Left" Margin="164,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+        <TextBlock x:Name="txtStatus" HorizontalAlignment="Left" Margin="192,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" TextAlignment="Center" Width="140" Foreground="#FFFBF8F8" FontFamily="Arial" Height="16"/>
     </Grid>
 </Window>

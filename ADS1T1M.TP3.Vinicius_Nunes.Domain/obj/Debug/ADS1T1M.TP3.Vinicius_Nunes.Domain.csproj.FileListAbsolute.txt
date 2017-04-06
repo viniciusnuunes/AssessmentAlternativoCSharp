@@ -8,3 +8,8 @@ C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1
 C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
 C:\Users\Administrador\Desktop\Projetos\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Domain\bin\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.csprojResolveAssemblyReference.cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.dll
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.Vinicius_Nunes.Domain\obj\Debug\ADS1T1M.TP3.Vinicius_Nunes.Domain.pdb

@@ -41,3 +41,6 @@ C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNun
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.xml
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\EntityFramework.SqlServer.xml
 C:\VSO\viniciusnunes\ADS1T1M.TP3.Vinicius_Nunes.Solution\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.csprojResolveAssemblyReference.cache
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.ViniciusNunes.Present.App\bin\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe.config
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.exe
+C:\VSO\viniciusnunes\AssessmentAlternativoCSharp\ADS1T1M.TP3.ViniciusNunes.Present.App\obj\Debug\ADS1T1M.TP3.ViniciusNunes.Present.App.pdb
